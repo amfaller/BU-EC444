@@ -1,0 +1,7 @@
+This file contains the list of local IPs of each FOB used in EC444 Skill 28. All communication uses UDP on port 64209.
+
+FOB1 (COM3): 192.168.86.29
+
+FOB2 (COM5): 192.168.86.44
+
+FOB3 (COM6): 192.168.86.25
