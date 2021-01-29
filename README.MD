@@ -9,4 +9,6 @@ From [BU's Course Listing](https://www.bu.edu/academics/eng/courses/eng-ec-444/)
 
 As of now (December 2020), this course has been the most engineer-y course I've ever taken at Boston University. It covers the full stack, from backend hardware and network communication to front end data visualization and remote access. See lower level READMEs for contents.
 
+Class taken in Fall 2020.
+
 ----
